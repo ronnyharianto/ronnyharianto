@@ -38,7 +38,7 @@ I've been working in the IT industry since **November 2010** — 15+ years of bu
 
 ### [fintracko](https://github.com/ronnyharianto/fintracko) — multi-tenant financial tracking SaaS
 
-[Live Preview](https://fintracko.vercel.app)
+**Live: [fintracko.vercel.app](https://fintracko.vercel.app)**
 
 Built because my family needed a better way to track money. Workspaces with OWNER/COLLABORATOR roles and email invites, multi-currency accounts, recurring budgets with utilization tracking, two-level categories, income/expense/transfer transactions, and a dashboard with analytics. OAuth-only auth (Google + GitHub), mandatory onboarding with ToS acceptance, SEO-ready public site with OpenGraph and JSON-LD.
 
@@ -58,9 +58,9 @@ Enter a website URL → the app crawls its pages with Playwright, extracts and v
 
 ### [play-pass-go](https://github.com/ronnyharianto/play-pass-go) — pass-and-play property trading game
 
-[Live Preview](https://play-pass-go.vercel.app)
+**Live: [play-pass-go.vercel.app](https://play-pass-go.vercel.app)**
 
-One device, 2–4 players, no install: buy, rent, trade, and build your real-estate empire in the browser. Custom game engine with chance cards. The family game night that got out of hand. **Live: [play-pass-go.vercel.app](https://play-pass-go.vercel.app)**
+One device, 2–4 players, no install: buy, rent, trade, and build your real-estate empire in the browser. Custom game engine with chance cards. The family game night that got out of hand.
 
 `TypeScript` `Next.js` `React` `Game Engine` `Vercel`
 
